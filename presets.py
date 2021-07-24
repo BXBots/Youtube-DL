@@ -23,7 +23,7 @@ Hai {},
     """
     OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
     RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
+    NO_RESULTS = "No Results Found 🧐"
     DESCRIPTION = "Duration: {} || {}"
     NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
     DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
@@ -32,12 +32,11 @@ Hai {},
     DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
     DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
-    DEV_LINK = "https://t.me/space4renjith"
-    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐑𝐞𝐧𝐣𝐢𝐭𝐡 𝐌𝐚𝐧𝐠𝐚𝐥 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
+    DEV_LINK = "https://t.me/Mufaz123"
+    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: ᴍʜᴅ ᴍᴜꜰᴀᴢ 🇮🇳 | Telegram"
     SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
-    SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
-                  "downloads until you clear it !</code> "
-    WAIT_MESSAGE = "𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭.. 𝟒 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 !"
+    SAVED_THUMB = "✅ Thumbnail Saved Successfully"
+    WAIT_MESSAGE = "Please Wait.."
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap </code><b> DEL THUMB </b><code> if you wish to " \
                     "clear it !</code> "
     NO_THUMB = "𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐨𝐜𝐚𝐥 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲, 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐥𝐨𝐚𝐝 𝐚𝐧 𝐢𝐦𝐚𝐠𝐞 𝐭𝐨 𝐬𝐚𝐯𝐞 𝐢𝐭 !"
@@ -49,22 +48,22 @@ Hai {},
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
-    CHECKING_LINK = "⏳ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭... ⏳"
-    DOWNLOAD_START = "𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠... 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 !"
-    UPLOAD_START = "𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦..."
-    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 !"
-    CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
+    CHECKING_LINK = "Analysing Your Link,Please Wait....⏳"
+    DOWNLOAD_START = "DownloadinG 📥 "
+    UPLOAD_START = "UploadinG 📤"
+    NOT_DOWNLOADABLE = "😝 This Video Can't Be Downloaded"
+    CANCEL_PROCESS = "✅ Process Cancelled Successfully"
     FORMAT_SELECTION = """
-<b>Title -</b> {}
+<b>🚦Title -</b> `{}`
 <b>Channel -</b> <a href={}>{}</a>
-<b>Uploaded On -</b> {}
-<b>Views -</b> {}  |  <b>Rating:</b> {}
+<b>📆Uploaded On -</b> `{}`
+<b>👁️Views -</b> {}  |  <b>🌟Rating :</b> `{}`
 
 <b>Select the desired format:</b>
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "<b>Join :-</b> @RMProjects"
+    CUSTOM_CAPTION_UL_FILE = "👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @BX_Botz"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
