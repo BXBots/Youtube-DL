@@ -12,7 +12,7 @@ class Presets(object):
 
 𝐉𝐨𝐢𝐧 <a href='https://t.me/RMProjects'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
+    WELCOME_MSG = "Hai {}\n\n`Iam simple YouTube downloader bot. I Will Convert Youtube Link to Video/File & Mp3.`\n\n`For More Details Press` /help\n\n👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ʙx ʙᴏᴛᴢ](https://t.me/BX_Botz)"
     OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
     RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
     NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
